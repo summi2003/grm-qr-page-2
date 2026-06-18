@@ -1,0 +1,6 @@
+{
+  "name": "GPZ Product QR Authenticator",
+  "description": "Professional minimal landing page for scanning GPZ Nilo's Ring QR codes, displaying product identification information in deep royal blue and GPZ yellow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
